@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/shaders/default/shader.frag</file>
+        <file>assets/shaders/default/shader.vert</file>
+        <file>assets/models/chess.obj</file>
+        <file>assets/shaders/default/shader.geom</file>
+        <file>assets/images/gold_chess.png</file>
+        <file>assets/images/silver_chess.png</file>
+        <file>assets/shaders/test/shader.frag</file>
+        <file>assets/shaders/test/shader.vert</file>
+        <file>assets/models/test.obj</file>
+        <file>assets/models/chessboard.obj</file>
+        <file>assets/images/chessboard.png</file>
+        <file>assets/shaders/pass2/shader.frag</file>
+        <file>assets/shaders/pass2/shader.vert</file>
+        <file>assets/images/font_fill.png</file>
+        <file>assets/images/gold_chess_king.png</file>
+        <file>assets/images/silver_chess_king.png</file>
+        <file>assets/models/font_client.obj</file>
+        <file>assets/models/font_draw.obj</file>
+        <file>assets/models/font_resign.obj</file>
+        <file>assets/models/font_server.obj</file>
+        <file>assets/images/chessboard_4096.png</file>
+        <file>assets/models/single_grid.obj</file>
+        <file>assets/images/grid_fill.png</file>
+        <file>assets/sounds/chess.wav</file>
+        <file>assets/sounds/move.wav</file>
+        <file>assets/sounds/chess.mp3</file>
+        <file>assets/sounds/move.mp3</file>
+    </qresource>
+</RCC>
